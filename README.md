@@ -1,16 +1,16 @@
-Deskripsi
+# Deskripsi
 Aplikasi Data Mobil adalah sistem sederhana berbasis web untuk mengelola data mobil. Aplikasi ini memungkinkan pengguna untuk menambahkan, melihat, mengedit, dan menghapus data mobil seperti nama, merk, tahun, dan harga.
 
-⚙️ Fitur Utama
+ # Fitur Utama
 
-➕ Tambah data mobil
+# Tambah data mobil
 📋 Tampilkan daftar mobil
 ✏️ Edit data mobil
 🗑️ Hapus data mobil
 🗂️ Struktur Data
 
 
-🖥️ Tampilan Aplikasi
+# Tampilan Aplikasi
 
 Halaman utama menampilkan tabel data mobil dengan kolom:
 
@@ -23,7 +23,7 @@ Aksi (Edit & Hapus)
 
 
 
-🛠️ Teknologi yang Digunakan
+# Teknologi yang Digunakan
 
 HTML
 CSS (opsional untuk styling)
@@ -32,7 +32,7 @@ MySQL (database)
 
 
 
-🗄️ Setup Database
+# Setup Database
 
 1. Buat Database
     CREATE DATABASE crud_mobil;
@@ -47,7 +47,7 @@ CREATE TABLE mobil (
 );
 
 
-🚀 Cara Menjalankan
+# Cara Menjalankan
 
 1. Jalankan Server
 Gunakan:
@@ -61,7 +61,7 @@ http://localhost/nama-folder-project
 
 
 
-📌 Contoh Data
+# Contoh Data
 Nama	Merk	Tahun	Harga
 Pajero	Mitsubishi	2023	300000000
 Brio	Honda	2020	80000000
@@ -69,7 +69,7 @@ Avanza	Toyota	2011	90000000
 
 
 
-🔧 Fitur Pengembangan (Opsional)
+# Fitur Pengembangan (Opsional)
 
 Validasi input
 Format rupiah (Rp)
@@ -78,6 +78,3 @@ Pencarian data
 Login user (auth)
 
 
-📄 Lisensi
-
-Project ini bebas digunakan untuk pembelajaran.
